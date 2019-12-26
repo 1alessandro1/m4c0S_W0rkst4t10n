@@ -10,3 +10,5 @@ Here I'll port his latest release (unlocker302.zip) as well as another fork by p
 
 Also, it seems like DrDonk's unlocker works only on VMware Workstation 15.1.0, directly obtained from the official vmware website. I'll provide a link to that too.
 https://drive.google.com/open?id=1gQp8JAS7ZhXs8jAlcX5b-8xUEz_stogA
+
+Please note that I do NOT own this files, they're here only as a backup. Check out how to create virtual machines for macOS from paolo-projects repository if the guide above and the unlocker302 previously provided fails.
