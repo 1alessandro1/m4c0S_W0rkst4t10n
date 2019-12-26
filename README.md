@@ -2,8 +2,10 @@
 This is a backup to include all the files required to build a virtual machine, full guide here
 https://www.aioboot.com/en/boot-usb-vmware-workstation/
 
-This is the original backup link for the OSX_10.14.0_Installer.vmdk file:
-https://drive.google.com/drive/folders/1OChQltE4ejfLIRnyZ1km3KQQGm7tCdq7
+This is the original backup link for the OSX_10.14.0_Installer.vmdk file, choose either one or the other:
+1) https://drive.google.com/drive/folders/1OChQltE4ejfLIRnyZ1km3KQQGm7tCdq7 (not owned by me)
+2) https://drive.google.com/open?id=1eRSHu6QkFu_XCT490t_3S3vMRK3VVg6y 
+
 
 I'm adding here an additional copy for redundancy, having known that the unlocker provided by https://github.com/DrDonk/unlocker has already been deleted/replaced. 
 Here I'll port his latest release (unlocker302.zip) as well as another fork by paolo-projects (https://github.com/paolo-projects/auto-unlocker/releases)
