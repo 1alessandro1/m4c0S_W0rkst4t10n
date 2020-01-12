@@ -14,3 +14,16 @@ Also, it seems like DrDonk's unlocker works only on VMware Workstation 15.1.0, d
 https://drive.google.com/open?id=1gQp8JAS7ZhXs8jAlcX5b-8xUEz_stogA
 
 Please note that I do NOT own this files, they're here only as a backup. Check out how to create virtual machines for macOS from paolo-projects repository if the guide above and the unlocker302 previously provided fails.
+
+Credits:
+
+• Apple
+• VMware
+• AioBoot
+• DrDonk
+• Paolo-Projects
+• And many others I could have forgotten
+
+
+
+
