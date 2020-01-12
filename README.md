@@ -1,6 +1,6 @@
 # m4c0S_W0rkst4t10n
 This is a backup to include all the files required to build a virtual machine, full guide here
-https://www.aioboot.com/en/boot-usb-vmware-workstation/
+https://www.aioboot.com/en/macos-vmware-workstation/
 
 This is the original backup link for the OSX_10.14.0_Installer.vmdk file, choose either one or the other:
 1) https://drive.google.com/drive/folders/1OChQltE4ejfLIRnyZ1km3KQQGm7tCdq7 (not owned by me)
