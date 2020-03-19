@@ -6,8 +6,9 @@ This is the original backup link for the OSX_10.14.0_Installer.vmdk file, choose
 2) https://drive.google.com/open?id=1eRSHu6QkFu_XCT490t_3S3vMRK3VVg6y 
 
 
-I'm adding here an additional copy for redundancy, having known that the unlocker provided by https://github.com/DrDonk/unlocker has already been deleted/replaced. 
-Here I'll port his latest release (unlocker302.zip) as well as another fork by paolo-projects (https://github.com/paolo-projects/auto-unlocker/releases)
+I'm adding here an additional copy for redundancy, having known that the unlocker provided by [DrDonk](https://github.com/DrDonk/unlocker) has already been deleted/replaced. 
+
+Here I'll port his latest release (unlocker302.zip) as well as another fork by [paolo-projects](https://github.com/paolo-projects/auto-unlocker/releases)
 
 Also, it seems like DrDonk's unlocker works only on VMware Workstation 15.1.0, directly obtained from the official vmware website. I'll provide a [link to that too](https://drive.google.com/open?id=1gQp8JAS7ZhXs8jAlcX5b-8xUEz_stogA)
 
